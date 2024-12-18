@@ -1,0 +1,17 @@
+/måledata/
+
+__pycache__/
+*.py[cod]
+
+
+.venv/
+env/
+venv/
+
+
+.idea/
+*.iml
+
+
+*.log
+*.tmp
